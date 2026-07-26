@@ -157,8 +157,8 @@ RFID + Zigbee IoT system for real-time item tracking and automated billing.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshini0503&show_icons=true&theme=dark&hide_border=true&bg_color=0C0D1C&title_color=C8A84A&icon_color=20B8A8&text_color=E8E0D0" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshini0503&layout=compact&theme=dark&hide_border=true&bg_color=0C0D1C&title_color=C8A84A&text_color=E8E0D0" />
+![Followers](https://img.shields.io/github/followers/harshini0503?label=Followers&style=for-the-badge&color=C8A84A&labelColor=0C0D1C)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/harshini0503&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=20B8A8&labelColor=0C0D1C)
 
 </div>
 
