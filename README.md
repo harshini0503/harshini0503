@@ -147,21 +147,6 @@ RFID + Zigbee IoT system for real-time item tracking and automated billing.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/harshini0503?label=Followers&style=for-the-badge&color=C8A84A&labelColor=0C0D1C)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/harshini0503&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=20B8A8&labelColor=0C0D1C)
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/harshini0503/harshini0503/main/github-metrics.svg" width="100%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect
