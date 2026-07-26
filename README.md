@@ -138,14 +138,7 @@ RFID + Zigbee IoT system for real-time item tracking and automated billing.
 </tr>
 </table>
 
----
 
-### 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 <div align="center">
 
