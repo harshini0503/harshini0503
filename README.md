@@ -48,46 +48,33 @@
 
 <div align="center">
 
-![Skill icons](https://skillicons.dev/icons?i=swift,python,js,ts,java,react,nodejs,flask,fastapi,spring,pytorch,opencv,aws,docker,firebase,git&theme=dark)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=20B8A8&center=true&vCenter=true&width=560&lines=Swift+%C2%B7+SwiftUI+%C2%B7+UIKit+%C2%B7+Xcode;React+%C2%B7+Node.js+%C2%B7+Flask+%C2%B7+FastAPI+%C2%B7+Spring+Boot;PyTorch+%C2%B7+OpenCV+%C2%B7+CNN+%C2%B7+EfficientNet;AWS+%C2%B7+Docker+%C2%B7+Firebase+%C2%B7+Git" alt="Tech ticker" />
 
-</div>
-
-<br>
+<br><br>
 
 **Languages**
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<br>
+![Skill icons](https://skillicons.dev/icons?i=swift,py,js,ts,java,mysql&theme=dark)
 
 **iOS & Mobile**
-
-![Swift UI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-000000?style=flat-square&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+<br>
+![Skill icons](https://skillicons.dev/icons?i=swift,apple&theme=dark)
+&nbsp;![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
 **Web & Backend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+<br>
+![Skill icons](https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,spring,express&theme=dark)
 
 **AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<br>
+![Skill icons](https://skillicons.dev/icons?i=py,pytorch&theme=dark)
+&nbsp;![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **Cloud & DevOps**
+<br>
+![Skill icons](https://skillicons.dev/icons?i=aws,docker,firebase,git,github&theme=dark)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+</div>
 
 ---
 
@@ -97,14 +84,14 @@
 <tr>
 <td width="50%">
 
-**[CartSense — Smart Household Inventory](https://github.com/harshini0503/cartsense)**
+**[CartSense — Smart Household Inventory](https://github.com/harshini0503/Cart-sense)**
 Full-stack household management platform with JWT auth, shared shopping lists, and real-time analytics.
 `React` `TypeScript` `Flask` `SQLAlchemy`
 
 </td>
 <td width="50%">
 
-**[StudyBud — AI Collaborative Platform](https://github.com/harshini0503/studybud)**
+**[StudyBud — AI Collaborative Platform](https://github.com/CS218-CC/Study-Buddy)**
 Cloud-native study platform with an LLaMA-powered assistant, deployed on AWS ECS.
 `React` `Node.js` `MongoDB` `Docker`
 
@@ -113,7 +100,7 @@ Cloud-native study platform with an LLaMA-powered assistant, deployed on AWS ECS
 <tr>
 <td width="50%">
 
-**[Emotion-Based Music Recommender](https://github.com/harshini0503/EBMRS)**
+**[Emotion-Based Music Recommender](https://github.com/harshini0503/emotion-music-recommender)**
 Real-time facial emotion recognition driving mood-based Spotify playlist generation — 97% FER accuracy.
 `PyTorch` `OpenCV` `FastAPI`
 
