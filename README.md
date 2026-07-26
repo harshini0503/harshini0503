@@ -38,7 +38,7 @@
 
 <div align="center">
 
-![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Programming joke](https://readme-jokes.vercel.app/api?theme=dark&layout=horizontal)
 
 </div>
 
@@ -50,31 +50,44 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=20B8A8&center=true&vCenter=true&width=560&lines=Swift+%C2%B7+SwiftUI+%C2%B7+UIKit+%C2%B7+Xcode;React+%C2%B7+Node.js+%C2%B7+Flask+%C2%B7+FastAPI+%C2%B7+Spring+Boot;PyTorch+%C2%B7+OpenCV+%C2%B7+CNN+%C2%B7+EfficientNet;AWS+%C2%B7+Docker+%C2%B7+Firebase+%C2%B7+Git" alt="Tech ticker" />
 
-<br><br>
+</div>
+
+<br>
 
 **Languages**
-<br>
-![Skill icons](https://skillicons.dev/icons?i=swift,py,js,ts,java,mysql&theme=dark)
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **iOS & Mobile**
-<br>
-![Skill icons](https://skillicons.dev/icons?i=swift,apple&theme=dark)
-&nbsp;![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 **Web & Backend**
-<br>
-![Skill icons](https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,spring,express&theme=dark)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **AI / ML**
-<br>
-![Skill icons](https://skillicons.dev/icons?i=py,pytorch&theme=dark)
-&nbsp;![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Cloud & DevOps**
-<br>
-![Skill icons](https://skillicons.dev/icons?i=aws,docker,firebase,git,github&theme=dark)
 
-</div>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -146,6 +159,10 @@ RFID + Zigbee IoT system for real-time item tracking and automated billing.
 
 ![Followers](https://img.shields.io/github/followers/harshini0503?label=Followers&style=for-the-badge&color=C8A84A&labelColor=0C0D1C)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/harshini0503&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=20B8A8&labelColor=0C0D1C)
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/harshini0503/harshini0503/main/github-metrics.svg" width="100%" />
 
 </div>
 
