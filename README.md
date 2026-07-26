@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=2800&pause=900&color=C8A84A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harshini+%F0%9F%91%8B;iOS+%26+Full-Stack+Engineer;Building+at+Entain+%2F+SJSU;ML+%2B+Swift+%2B+Cloud+Systems" alt="Typing SVG" />
 
 ### Software Engineer building production iOS apps & cloud-native systems reaching thousands of daily users
@@ -21,9 +23,36 @@
 - 🏛️ Chapter President, **Kontagious @ SJSU** — mentoring students into tech careers
 - 📫 Reach me at **k.harshinim5@gmail.com**
 
+<details>
+<summary>⚡ Quick facts (click to expand)</summary>
+<br>
+
+🛠️ **Currently working on** — AI-powered collaborative platforms using React, Node.js, MongoDB & AWS
+🤝 **Looking to collaborate on** — Full-stack, frontend, or iOS open-source projects
+🎯 **Looking for help with** — Summer 2026 internship & new-grad SWE referrals
+🚀 **Currently learning** — Cloud computing, distributed systems & advanced algorithms at SJSU
+💬 **Ask me about** — React, Swift, Java, Spring Boot, REST APIs, or building production systems at scale
+⚡ **Fun fact** — I've shipped features across 30+ apps without a single App Store redeployment
+
+</details>
+
+<div align="center">
+
+![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
 ---
 
 ### 🛠️ Tech Stack
+
+<div align="center">
+
+![Skill icons](https://skillicons.dev/icons?i=swift,python,js,ts,java,react,nodejs,flask,fastapi,spring,pytorch,opencv,aws,docker,firebase,git&theme=dark)
+
+</div>
+
+<br>
 
 **Languages**
 
@@ -100,7 +129,7 @@ Native iOS app with MVC architecture, CoreData persistence, and 60fps UITableVie
 <tr>
 <td width="50%">
 
-**[Malware Detection via CNN Classification]
+**[Malware Detection via CNN Classification](https://github.com/harshini0503/malware-detection-cnn)**
 Binary-to-image pipeline classifying malware families with deep learning.
 `Python` `PyTorch` `CNN`
 
@@ -117,14 +146,19 @@ RFID + Zigbee IoT system for real-time item tracking and automated billing.
 
 ---
 
+### 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshini0503&show_icons=true&theme=dark&hide_border=true&bg_color=0C0D1C&title_color=C8A84A&icon_color=20B8A8&text_color=E8E0D0" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshini0503&layout=compact&theme=dark&hide_border=true&bg_color=0C0D1C&title_color=C8A84A&text_color=E8E0D0" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshini0503&theme=dark&hide_border=true&background=0C0D1C&ring=C8A84A&fire=C8A84A&currStreakLabel=E8E0D0" />
 
 </div>
 
