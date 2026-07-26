@@ -23,12 +23,12 @@
 - 🏛️ Chapter President, **Kontagious @ SJSU** — mentoring students into tech careers
 - 📫 Reach me at **k.harshinim5@gmail.com**
 
-🛠️ **Currently working on** — AI-powered collaborative platforms using React, Node.js, MongoDB & AWS
-🤝 **Looking to collaborate on** — Full-stack, frontend, or iOS open-source projects
-🎯 **Looking for help with** — Full-time SWE roles & internship referrals
-🚀 **Currently learning** — Cloud computing, distributed systems & advanced algorithms at SJSU
-💬 **Ask me about** — React, Swift, Java, Spring Boot, REST APIs, or building production systems at scale
-⚡ **Fun fact** — I've shipped features across 30+ apps without a single App Store redeployment
+- 🛠️ **Currently working on** — AI-powered collaborative platforms using React, Node.js, MongoDB & AWS
+- 🤝 **Looking to collaborate on** — Full-stack, frontend, or iOS open-source projects
+- 🎯 **Looking for help with** — Full-time SWE roles & internship referrals
+- 🚀 **Currently learning** — Cloud computing, distributed systems & advanced algorithms at SJSU
+- 💬 **Ask me about** — React, Swift, Java, Spring Boot, REST APIs, or building production systems at scale
+- ⚡ **Fun fact** — I've shipped features across 30+ apps without a single App Store redeployment
 
 <div align="center">
 
