@@ -23,22 +23,16 @@
 - 🏛️ Chapter President, **Kontagious @ SJSU** — mentoring students into tech careers
 - 📫 Reach me at **k.harshinim5@gmail.com**
 
-<details>
-<summary>⚡ Quick facts (click to expand)</summary>
-<br>
-
 🛠️ **Currently working on** — AI-powered collaborative platforms using React, Node.js, MongoDB & AWS
 🤝 **Looking to collaborate on** — Full-stack, frontend, or iOS open-source projects
-🎯 **Looking for help with** — Summer 2026 internship & new-grad SWE referrals
+🎯 **Looking for help with** — Full-time SWE roles & internship referrals
 🚀 **Currently learning** — Cloud computing, distributed systems & advanced algorithms at SJSU
 💬 **Ask me about** — React, Swift, Java, Spring Boot, REST APIs, or building production systems at scale
 ⚡ **Fun fact** — I've shipped features across 30+ apps without a single App Store redeployment
 
-</details>
-
 <div align="center">
 
-![Programming joke](https://readme-jokes.vercel.app/api?theme=dark&layout=horizontal)
+> 😄 **"Writing code is exactly like writing poetry, except that if you miss a single comma, the entire poem explodes."**
 
 </div>
 
@@ -170,8 +164,17 @@ RFID + Zigbee IoT system for real-time item tracking and automated billing.
 
 <div align="center">
 
-📄 [Resume](https://drive.google.com/file/d/1x0byfVAJL_6gnc3wO-X3nlIHu8bdRzgA/view?usp=drive_link) &nbsp;·&nbsp; 🌐 [Portfolio](https://harshini-portfolio-ga5d.vercel.app/) &nbsp;·&nbsp; ✉️ [k.harshinim5@gmail.com](mailto:k.harshinim5@gmail.com)
+### 🤝 Let's Connect
 
-<img src="https://komarev.com/ghpvc/?username=harshini0503&color=C8A84A&style=flat-square&label=Profile+Views" alt="Profile Views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshini0503/)
+[![Gmail](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.harshinim5@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-C8A84A?style=for-the-badge&logo=vercel&logoColor=white)](https://harshini-portfolio-ga5d.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-Download-20B8A8?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1x0byfVAJL_6gnc3wO-X3nlIHu8bdRzgA/view?usp=drive_link)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> **Thanks for stopping by!**
+
+<img src="https://komarev.com/ghpvc/?username=harshini0503&color=C8A84A&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
